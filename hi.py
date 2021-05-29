@@ -22,3 +22,5 @@ def GuncelHal(guncelHal):
         print("İyi diyelim iyi olalım:D")
 
 
+def GeyikYap(): 
+    print("İSTİYORSUN Kİİ HEP boş boş konuşalım, geyik muhabbeti yapalım:P")
