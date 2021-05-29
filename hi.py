@@ -21,6 +21,8 @@ def GuncelHal(guncelHal):
     else:
         print("İyi diyelim iyi olalım:D")
 
-
 def GeyikYap(): 
     print("İSTİYORSUN Kİİ HEP boş boş konuşalım, geyik muhabbeti yapalım:P")
+
+def SelinOzenc():
+    print("SeloCAN'ın kendi adına yazdığı fonksiyona hoşgeldiniz:P :)) ")
